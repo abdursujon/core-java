@@ -61,26 +61,26 @@ public class OneDimentionalArrays {
     int largest = arr2[0];
     int smallest = arr2[0];
     for (int i = 0; i < arr2.length; i++) {
-        
-        arr2[i] = sc.nextInt();
-        if(i == 0){
-	  largest = arr2[0];
-	  smallest = arr2[0];	
- 	} 
-        if(largest < arr2[i]){
-  	  largest = arr2[i];
-	}       
-        // let say first index 0 = 2, second is = 1; how to assign the second to smallest  
-        
-        
-        if(arr2[i] < smallest){
-         smallest = arr2[i];
-        }
+
+      arr2[i] = sc.nextInt();
+      if (i == 0) {
+        largest = arr2[0];
+        smallest = arr2[0];
+      }
+      if (largest < arr2[i]) {
+        largest = arr2[i];
+      }
+      // let say first index 0 = 2, second is = 1; how to assign the second to smallest
+
+      if (arr2[i] < smallest) {
+        smallest = arr2[i];
+      }
     }
-System.out.println("Largest number you enter is : " + largest + "\n" + "Smallest number you entered is: " + smallest);
+    System.out.println(
+        "Largest number you enter is : "
+            + largest
+            + "\n"
+            + "Smallest number you entered is: "
+            + smallest);
   }
 }
-
-
-
-

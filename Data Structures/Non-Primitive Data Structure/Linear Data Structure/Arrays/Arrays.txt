@@ -1,0 +1,33 @@
+Arrays 4
+  1. Fixed Size — Once created, the size of an array cannot be changed.                                                 
+  2. Homogeneous Elements — All elements must be of the same data type.                                                 
+  3. Zero-Based Indexing — The first element is at index 0, the last at length - 1.                                     
+  4. Contiguous Memory Allocation — Elements are stored in consecutive memory locations.                                
+  5. Object Type — Arrays are objects in Java (they extend java.lang.Object).
+  6. Default Values — Elements are initialized with default values (0 for int, 0.0 for double, false for boolean, null
+  for objects).
+  7. Length Property — Size is accessed via .length (a field, not a method).
+  8. ArrayIndexOutOfBoundsException — Accessing an invalid index throws this runtime exception.
+  9. Can Hold Primitives and Objects — Arrays can store both primitive types and reference types.
+  10. Type Safety — Assigning an incompatible type causes a compile-time error (or ArrayStoreException at runtime for
+  object arrays).
+  11. Covariant — If B extends A, then B[] is a subtype of A[].
+  12. Cloneable and Serializable — Arrays implement both Cloneable and Serializable interfaces.
+  13. Multi-Dimensional Support — Java supports jagged/ragged arrays (arrays of arrays), where each row can have a
+  different length.
+  14. Anonymous Arrays — Arrays can be created without a variable name: new int[]{1, 2, 3}.
+  15. Size via new or Initializer — Size must be specified at creation (new int[5]) or inferred from an initializer ({1,
+   2, 3}).
+  16. Cannot Use Generics — You cannot create a generic array like new T[] (due to type erasure).
+      Generic: Person<String> name = new Person<>(); Here <String> is the generic (general purpose and telling tye type of a class)
+               Person<Integer> age = new Person<>(); same class with differnt generic ensuring type safety. 
+               We can choose to juse do something like this 
+	       Person address = new Person(); but this has no type safety at all and might cause odd behaviour. 
+  17. Negative Size Not Allowed — Using a negative size throws NegativeArraySizeException.
+  18. Final Length — The length field is implicitly final and cannot be modified.
+  19. Direct Memory Access — Elements are accessed in O(1) time via index.
+  20. Insertion/Deletion is Costly — Shifting elements makes insertion and deletion O(n).
+  21. Passed by Reference — When passed to a method, the reference is copied, so modifications inside the method affect
+  the original array.
+  22. Maximum Size — The maximum array size is approximately Integer.MAX_VALUE (~2.1 billion), limited by available
+  memory.
