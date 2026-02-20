@@ -1,0 +1,8 @@
+Rules
+1. Dynamic Size - auto grows and shriks as elements are added or removed 
+2. Ordered - Maintain insertion order of the elements 
+3. Allow duplicates - allows multiple duplicate values 
+4. Allows Null - can store null valuess 
+5. Index based - elements are accessed by zero index 
+6. Not synchronised - not thread safe by default (thread means a tasks/ not synchronised means multiple people can edit at the same time. 
+7. Stores Objects only - primitive are autoboxed (e.g., int - Integer)
