@@ -1,0 +1,51 @@
+Core:
+1.	String
+2.	StringBuilder
+3.	Object
+4.	Math
+5.	Integer / Double / Long (wrapper classes)
+6.	Optional
+Collections & Data Structures:
+7.  Arrays
+8.  Collections
+9.  ArrayList
+10. LinkedList
+11. HashMap
+12. LinkedHashMap
+13. TreeMap
+14. HashSet
+15. LinkedHashSet
+16. TreeSet
+17. Stack
+18. Queue (interface)
+19. PriorityQueue
+20. Deque / ArrayDeque
+Functional & Streams:
+21. Stream
+22. Comparator
+23. Comparable
+24. Iterator
+25. Iterable
+Concurrency:
+26. Thread
+27. Runnable
+28. ConcurrentHashMap
+29. ExecutorService
+30. CompletableFuture
+31. AtomicInteger
+I/O:
+32. File
+33. BufferedReader / BufferedWriter
+34. InputStream / OutputStream
+Utility:
+35. Map.Entry
+36. List (interface)
+37. Set (interface)
+38. Map (interface)
+39. Enum
+40. Record
+Exceptions:
+41. Exception
+42. RuntimeException
+43. NullPointerException
+44. IllegalArgumentException
