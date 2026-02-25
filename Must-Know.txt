@@ -1,10 +1,18 @@
 Core:
-1.	String
-2.	StringBuilder
-3.	Object
-4.	Math
-5.	Integer / Double / Long (wrapper classes)
-6.	Optional
+1. String
+2. StringBuilder
+3. Object
+4. Math
+5. Integer / Double / Long
+6. Optional
+7. Comparable
+8. Character
+9. Objects
+10. Stream
+11. Iterable
+12. Enum
+13. Class
+
 Collections & Data Structures:
 7.  Arrays
 8.  Collections

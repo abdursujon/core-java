@@ -1,0 +1,92 @@
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
+public class Solution {
+    private static final Scanner scanner = new Scanner(System.in);
+
+    public static void main(String[] args) {
+        int N = scanner.nextInt();
+        if(N % 2 != 0){
+            System.out.println("Weird");
+        }
+        else if((N % 2 == 0) && N >= 2 && N <= 5){
+            System.out.println("Not Weird");
+        }
+        else if((N % 2 == 0) && N >= 6 && N<= 20){
+            System.out.println("Weird");
+        }
+        else if((N % 2 == 0) && N > 20){
+            System.out.println("Not Weird");
+        }
+        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+
+        scanner.close();
+    }
+}
+
+
+import java.util.Scanner;
+public class Solution {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int i = scan.nextInt();
+        double d = scan.nextDouble();
+        scan.nextLine();
+        String s = scan.nextLine();
+        scan.close();
+        System.out.println("String: "+ s);
+        System.out.println("Double: " + d);
+        System.out.println("Int: " + i);
+    }
+}
+
+
+import java.util.Scanner;
+public class Solution {
+    public static void main(String[] args) {
+            Scanner sc=new Scanner(System.in);
+            System.out.println("================================");
+            for(int i=0;i<3;i++){
+                String s1=sc.next();
+                int x=sc.nextInt();
+
+                if(x >= 0 && x<= 99){
+                    System.out.printf("%-15s%03d%n" , s1, x);
+                }
+                if(x>99 && x<= 999){
+                    System.out.printf("%-15s%d%n" , s1, x);
+                }
+            }
+            System.out.println("================================");
+    }
+}
+
+
+import java.util.*;
+import java.io.*;
+class Solution{
+    public static void main(String []argh){
+        Scanner in = new Scanner(System.in);
+        int q=in.nextInt(); // first we get how many query we want has to be <= 500
+        for(int i=0;i<q;i++){ // run the loop as many times as q
+            int a = in.nextInt(); // we get a
+            int b = in.nextInt(); // we get b
+            int n = in.nextInt(); // we get n
+
+            int sum = 0;
+            for(int j = 0; j< n; j++){
+                sum += (int) Math.pow(2, j);
+                System.out.print(a + b * sum);
+                if(j < n -1){ // space for all items except last
+                    System.out.print(" ");
+                }
+            }
+            System.out.println();
+        }
+        in.close();
+    }
+}
