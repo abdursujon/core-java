@@ -118,7 +118,7 @@ public class StringClass {
         System.out.println("Name: %s, Age: %d".formatted("Sujon", 333));
         System.out.printf("Name: %s, Age: %d, DOB: %s%n", "Sujon", 299, LocalDate.now());
 
-        // 29. Conversion
+        // 29. valueOf
         String.valueOf(123);                 // "123"
         String.valueOf(true);                // "true"
         String.valueOf(new char[]{'a','b'}); // "ab"

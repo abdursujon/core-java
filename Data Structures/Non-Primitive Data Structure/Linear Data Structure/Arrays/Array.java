@@ -23,6 +23,10 @@ public class Array{
     for(int i = 0; i<arr.length; i++){
         System.out.println(arr6[i]);
     }
+
+    /**
+     * Java built in methods for Arrays class
+     */
     //1. toString
     System.out.println(Arrays.toString(arr6));
     
@@ -49,12 +53,16 @@ public class Array{
     // 7. binarySearch - find index of value ( array must be sorted)
     int [] arr10 = {54,32,78,14,2,16,9};
     Arrays.sort(arr10);
-    System.out.println(Arrays.binarySearch(arr10, 2));
+    System.out.println(Arrays.binarySearch(arr10, 2)); // binarySearch() as an algorithm which repeatedly divides the sorted array in half to locate the target
     
     //8. asList
     Integer []arr11 = {4,7,89,33};
     List<Integer>list = Arrays.asList(arr11);
     System.out.println(list);
+
+    // 9. length
+    int[] arr12 = {1, 3, 4, 5, 6, 66, 9};
+    System.out.println(arr12.length);
   } 
   
 }
