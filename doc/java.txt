@@ -1,0 +1,198 @@
+Fundamentals
+
+  1. Primitive types (int, double, float, long, boolean, char, byte, short) x
+  2. String x
+  3. Integer x
+  4. Double x
+  5. Float x
+  6. Long x
+  7. Boolean x
+  8. Character x
+  9. Math x
+  10. System
+  11. Object x
+  12. Autoboxing / Unboxing
+  13. Type casting x
+  14. Operators x
+  15. Control flow (if/else, switch, ternary) x
+  16. Loops (for, while, do-while, enhanced for) x
+  17. enum x
+  18. var x
+  Operators x
+  Primitive x
+
+  OOP
+
+  19. Classes and Objects
+  20. Constructors
+  21. this keyword
+  22. static keyword
+  23. final keyword
+  24. Inheritance
+  25. Polymorphism
+  26. Abstraction
+  27. Interfaces
+  28. Encapsulation / Access modifiers
+  29. super keyword
+  30. Inner classes
+  31. Anonymous classes
+  32. Records
+  33. Sealed classes
+
+  Data Structures
+
+  34. Arrays
+  35. ArrayList
+  36. LinkedList
+  37. HashMap
+  38. LinkedHashMap
+  39. TreeMap
+  40. HashSet
+  41. LinkedHashSet
+  42. TreeSet
+  43. Stack
+  44. Queue
+  45. PriorityQueue
+  46. Deque / ArrayDeque
+  47. Collections
+  48. Iterator
+  49. Comparable vs Comparator
+
+  Streams & Functional Programming
+
+  50. Stream
+  51. Collectors
+  52. Lambda expressions
+  53. Function
+  54. Predicate
+  55. Consumer
+  56. Supplier
+  57. Method references
+  58. Optional
+
+  I/O & File Handling
+
+  59. InputStream / OutputStream
+  60. FileInputStream / FileOutputStream
+  61. BufferedReader / BufferedWriter
+  62. InputStreamReader / OutputStreamWriter
+  63. FileReader / FileWriter
+  64. Scanner
+  65. PrintWriter
+  66. File
+  67. Path / Paths
+  68. Files (NIO)
+  69. Serializable
+  70. ObjectInputStream / ObjectOutputStream
+
+  Exception Handling
+
+  71. try / catch / finally
+  72. throw / throws
+  73. Exception vs RuntimeException
+  74. Checked vs Unchecked exceptions
+  75. Custom exceptions
+  76. try-with-resources
+
+  Generics
+
+  77. Generic classes
+  78. Generic methods
+  79. Bounded types
+  80. Wildcards
+
+  Multithreading & Concurrency
+
+  81. Thread
+  82. Runnable
+  83. synchronized
+  84. volatile
+  85. ExecutorService
+  86. Future / Callable
+  87. CompletableFuture
+  88. ConcurrentHashMap
+  89. AtomicInteger / AtomicReference
+  90. CountDownLatch / CyclicBarrier
+  91. ReentrantLock
+  92. Thread safety / Race conditions / Deadlocks
+
+  Date & Time
+
+  93. Date
+  94. SimpleDateFormat
+  95. LocalDate
+  96. LocalTime
+  97. LocalDateTime
+  98. ZonedDateTime
+  99. Instant
+  100. Duration / Period
+  101. DateTimeFormatter
+
+  Algorithms
+
+  102. Linear search
+  103. Binary search
+  104. Bubble sort
+  105. Selection sort
+  106. Insertion sort
+  107. Merge sort
+  108. Quick sort
+  109. Recursion
+  110. Two pointers
+  111. Sliding window
+  112. BFS
+  113. DFS
+  114. Dynamic programming
+  115. Greedy algorithms
+  116. Graph traversal
+  117. Dijkstra's shortest path
+  118. Hashing techniques
+
+  Design Patterns
+
+  119. Singleton
+  120. Factory
+  121. Builder
+  122. Observer
+  123. Strategy
+  124. Adapter
+  125. Decorator
+  126. Repository
+  127. MVC
+  128. Dependency Injection
+
+  Testing
+
+  129. JUnit 5
+  130. Mockito
+  131. Unit testing vs Integration testing
+  132. TDD
+
+  Build & Tools
+
+  133. Maven
+  134. Gradle
+  135. Git
+
+  Spring Boot
+
+  136. @SpringBootApplication
+  137. @RestController / @Controller
+  138. @Service
+  139. @Repository
+  140. @Autowired / Dependency Injection
+  141. @Entity / JPA
+  142. Request mappings
+  143. Spring Data JPA
+  144. Spring Security
+  145. REST API design
+  146. @ControllerAdvice
+
+  Database
+
+  147. SQL basics
+  148. JDBC
+  149. H2
+  150. PostgreSQL / MySQL
+  151. Hibernate / JPA
+  152. Database migrations

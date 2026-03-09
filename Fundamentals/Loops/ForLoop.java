@@ -1,5 +1,4 @@
 import java.util.*;
-import java.io.*;
 
 public class ForLoop{
     public static void main(String args[]){
