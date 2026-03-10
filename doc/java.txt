@@ -18,8 +18,6 @@ Fundamentals
   16. Loops (for, while, do-while, enhanced for) x
   17. enum x
   18. var x
-  Operators x
-  Primitive x
 
   OOP
 
@@ -41,158 +39,206 @@ Fundamentals
 
   Data Structures
 
-  34. Arrays
-  35. ArrayList
-  36. LinkedList
-  37. HashMap
-  38. LinkedHashMap
-  39. TreeMap
-  40. HashSet
-  41. LinkedHashSet
-  42. TreeSet
-  43. Stack
-  44. Queue
-  45. PriorityQueue
-  46. Deque / ArrayDeque
-  47. Collections
-  48. Iterator
-  49. Comparable vs Comparator
+  34. List interface
+  35. Set interface
+  36. Map interface
+  37. Arrays
+  38. ArrayList
+  39. LinkedList
+  40. HashMap
+  41. LinkedHashMap
+  42. TreeMap
+  43. HashSet
+  44. LinkedHashSet
+  45. TreeSet
+  46. Stack
+  47. Queue
+  48. PriorityQueue
+  49. Deque / ArrayDeque
+  50. Collections
+  51. Iterator
+  52. Comparable vs Comparator
+  53. StringBuilder / StringBuffer
 
   Streams & Functional Programming
 
-  50. Stream
-  51. Collectors
-  52. Lambda expressions
-  53. Function
-  54. Predicate
-  55. Consumer
-  56. Supplier
-  57. Method references
-  58. Optional
+  54. Stream
+  55. Collectors
+  56. Lambda expressions
+  57. Function
+  58. Predicate
+  59. Consumer
+  60. Supplier
+  61. Method references
+  62. Optional
 
   I/O & File Handling
 
-  59. InputStream / OutputStream
-  60. FileInputStream / FileOutputStream
-  61. BufferedReader / BufferedWriter
-  62. InputStreamReader / OutputStreamWriter
-  63. FileReader / FileWriter
-  64. Scanner
-  65. PrintWriter
-  66. File
-  67. Path / Paths
-  68. Files (NIO)
-  69. Serializable
-  70. ObjectInputStream / ObjectOutputStream
+  63. InputStream / OutputStream
+  64. FileInputStream / FileOutputStream
+  65. BufferedReader / BufferedWriter
+  66. InputStreamReader / OutputStreamWriter
+  67. FileReader / FileWriter
+  68. Scanner
+  69. PrintWriter
+  70. File
+  71. Path / Paths
+  72. Files (NIO)
+  73. Serializable
+  74. ObjectInputStream / ObjectOutputStream
 
   Exception Handling
 
-  71. try / catch / finally
-  72. throw / throws
-  73. Exception vs RuntimeException
-  74. Checked vs Unchecked exceptions
-  75. Custom exceptions
-  76. try-with-resources
+  75. try / catch / finally
+  76. throw / throws
+  77. Exception vs RuntimeException
+  78. Checked vs Unchecked exceptions
+  79. Custom exceptions
+  80. try-with-resources
 
   Generics
 
-  77. Generic classes
-  78. Generic methods
-  79. Bounded types
-  80. Wildcards
+  81. Generic classes
+  82. Generic methods
+  83. Bounded types
+  84. Wildcards
 
   Multithreading & Concurrency
 
-  81. Thread
-  82. Runnable
-  83. synchronized
-  84. volatile
-  85. ExecutorService
-  86. Future / Callable
-  87. CompletableFuture
-  88. ConcurrentHashMap
-  89. AtomicInteger / AtomicReference
-  90. CountDownLatch / CyclicBarrier
-  91. ReentrantLock
-  92. Thread safety / Race conditions / Deadlocks
+  85. Thread
+  86. Runnable
+  87. synchronized
+  88. volatile
+  89. ExecutorService
+  90. Future / Callable
+  91. CompletableFuture
+  92. ConcurrentHashMap
+  93. AtomicInteger / AtomicReference
+  94. CountDownLatch / CyclicBarrier
+  95. ReentrantLock
+  96. Thread safety / Race conditions / Deadlocks
+  97. Semaphore
+  98. BlockingQueue
 
   Date & Time
 
-  93. Date
-  94. SimpleDateFormat
-  95. LocalDate
-  96. LocalTime
-  97. LocalDateTime
-  98. ZonedDateTime
-  99. Instant
-  100. Duration / Period
-  101. DateTimeFormatter
+  99. Date
+  100. SimpleDateFormat
+  101. LocalDate
+  102. LocalTime
+  103. LocalDateTime
+  104. ZonedDateTime
+  105. Instant
+  106. Duration / Period
+  107. DateTimeFormatter
 
   Algorithms
 
-  102. Linear search
-  103. Binary search
-  104. Bubble sort
-  105. Selection sort
-  106. Insertion sort
-  107. Merge sort
-  108. Quick sort
-  109. Recursion
-  110. Two pointers
-  111. Sliding window
-  112. BFS
-  113. DFS
-  114. Dynamic programming
-  115. Greedy algorithms
-  116. Graph traversal
-  117. Dijkstra's shortest path
-  118. Hashing techniques
+  108. Linear search
+  109. Binary search
+  110. Bubble sort
+  111. Selection sort
+  112. Insertion sort
+  113. Merge sort
+  114. Quick sort
+  115. Recursion
+  116. Two pointers
+  117. Sliding window
+  118. BFS
+  119. DFS
+  120. Dynamic programming
+  121. Greedy algorithms
+  122. Graph traversal
+  123. Dijkstra's shortest path
+  124. Hashing techniques
 
   Design Patterns
 
-  119. Singleton
-  120. Factory
-  121. Builder
-  122. Observer
-  123. Strategy
-  124. Adapter
-  125. Decorator
-  126. Repository
-  127. MVC
-  128. Dependency Injection
+  125. Singleton
+  126. Factory
+  127. Builder
+  128. Observer
+  129. Strategy
+  130. Adapter
+  131. Decorator
+  132. Repository
+  133. MVC
+  134. Dependency Injection
 
   Testing
 
-  129. JUnit 5
-  130. Mockito
-  131. Unit testing vs Integration testing
-  132. TDD
+  135. JUnit 5
+  136. Mockito
+  137. Unit testing vs Integration testing
+  138. TDD
+    - @SpringBootTest
+    - MockMvc
+    - Assertions (assertThat, assertEquals)
 
   Build & Tools
 
-  133. Maven
-  134. Gradle
-  135. Git
+  139. Maven
+  140. Gradle
+  141. Git
+
+  Networking / API
+
+  142. HttpClient (Java 11+)
+  143. URL / HttpURLConnection
 
   Spring Boot
 
-  136. @SpringBootApplication
-  137. @RestController / @Controller
-  138. @Service
-  139. @Repository
-  140. @Autowired / Dependency Injection
-  141. @Entity / JPA
-  142. Request mappings
-  143. Spring Data JPA
-  144. Spring Security
-  145. REST API design
-  146. @ControllerAdvice
+  144. @SpringBootApplication
+  145. @RestController / @Controller
+  146. @Service
+  147. @Repository
+  148. @Autowired / Dependency Injection
+  149. @Entity / JPA
+  150. Request mappings
+  151. Spring Data JPA
+  152. Spring Security
+  153. REST API design
+  154. @ControllerAdvice
+  155. @Component
+  156. @Configuration / @Bean
+  157. @Value
+  158. @Transactional
+  159. @Valid / validation annotations
+  160. ResponseEntity
+  161. Profiles (@Profile, application.yml)
+
+  Key Spring Security classes:
+    - SecurityFilterChain
+    - UserDetailsService
+    - PasswordEncoder
+    - OncePerRequestFilter (for JWT filter)
+    - @PreAuthorize / @Secured
+    - SecurityContext
+
+  Authentication & Security
+
+  162. JWT (JSON Web Tokens)
+  163. OAuth2
+  164. BCrypt
+  165. CORS
+  166. Session vs Token based auth
 
   Database
 
-  147. SQL basics
-  148. JDBC
-  149. H2
-  150. PostgreSQL / MySQL
-  151. Hibernate / JPA
-  152. Database migrations
+  167. SQL
+  168. JDBC
+  169. H2
+  170. PostgreSQL / MySQL
+  171. Hibernate / JPA
+  172. Database migrations
+
+  Utility
+
+  173. Objects — null checks
+  174. UUID — generating unique IDs
+  175. Pattern / Matcher — regex
+  176. Properties — config files
+
+  Logging
+
+  177. SLF4J / Logback
