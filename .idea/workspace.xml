@@ -2,57 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="861c7c50-43a2-490c-8917-e60bedf334c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Structure Exercises/Arrays/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 3 Data Types, Variables, and Array/BuiltInArray/TwoDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Arrays/Arrays.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part 3: Algorithm/AlgLectures/SequentialVsBinarySearchL2/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part 3: Algorithm/AlgLectures/SequentialVsBinarySearchL2/SequentialSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part 3: Algorithm/AlgLectures/SequentialVsBinarySearchL2/SequentialVersusBinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Core Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/google-java-format.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/AlgLectures/SequentialVsBinarySearchL2/BinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/AlgLectures/SequentialVsBinarySearchL2/SequentialSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/AlgLectures/SequentialVsBinarySearchL2/SequentialVersusBinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/Non-Primitive Data Structure/Linear Data Structure/ArrayList/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Extra/Data Structures/Non-Primitive Data Structure/Linear Data Structure/ArrayList/ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/Non-Primitive Data Structure/Linear Data Structure/ArrayList/ArrayList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Extra/Data Structures/Non-Primitive Data Structure/Linear Data Structure/ArrayList/ArrayList.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/Non-Primitive Data Structure/Linear Data Structure/ArrayList/ArrayListExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/Extra/Data Structures/Non-Primitive Data Structure/Linear Data Structure/ArrayList/ArrayListExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/Non-Primitive Data Structure/Linear Data Structure/ArrayList/JavaArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Extra/Data Structures/Non-Primitive Data Structure/Linear Data Structure/ArrayList/JavaArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/Non-Primitive Data Structure/Linear Data Structure/Arrays/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Arrays/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/Non-Primitive Data Structure/Linear Data Structure/Arrays/ArrayExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/Extra/Data Structures/Non-Primitive Data Structure/Linear Data Structure/Arrays/ArrayExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/Non-Primitive Data Structure/Linear Data Structure/Arrays/Arrays.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Extra/Data Structures/Non-Primitive Data Structure/Linear Data Structure/Arrays/Arrays.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/Non-Primitive Data Structure/Linear Data Structure/Arrays/OneDimentionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Extra/Data Structures/Non-Primitive Data Structure/Linear Data Structure/Arrays/OneDimentionalArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/Non-Primitive Data Structure/Linear Data Structure/Arrays/TwoDimentionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Extra/Data Structures/Non-Primitive Data Structure/Linear Data Structure/Arrays/TwoDimentionalArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/Non-Primitive Data Structure/Linear Data Structure/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Extra/Data Structures/Non-Primitive Data Structure/Linear Data Structure/LinkedList/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/Non-Primitive Data Structure/Linear Data Structure/List/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/Extra/Data Structures/Non-Primitive Data Structure/Linear Data Structure/List/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/Non-Primitive Data Structure/Non-Linear Data Structure/HashMap/HashMapExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/Extra/Data Structures/Non-Primitive Data Structure/Non-Linear Data Structure/HashMap/HashMapExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/Non-Primitive Data Structure/Non-Linear Data Structure/HashMap/JavaHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/Extra/Data Structures/Non-Primitive Data Structure/Non-Linear Data Structure/HashMap/JavaHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Patterns" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise/ArrayListExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure Exercises/Collection Classes/ArrayList/Ex1ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure Exercises/Extra/Exercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise/StringAndArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure Exercises/Arrays/StringAndArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/Boolean/Booleans.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Boolean/Booleans.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/Character/Characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Character/Characters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/Control-Flow/ControlFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Control-Flow/ControlFlow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/Double/Doubles.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Double/Doubles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/Enum/Enums.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Enum/Enums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/Float/Floats.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Float/Floats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/Integer/Integers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Integer/Integers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/Long/Longs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Long/Longs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/Loops/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 5 Control Statements/Loops/ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/Loops/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 5 Control Statements/Loops/Loops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/Math/Maths.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Math/Maths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/Object/Objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Object/Objects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/Operators/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Operators/Operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/Primitive/Primitives.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Primitive/Primitives.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/String/StringClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/String/StringClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/Type-Casting/TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Type-Casting/TypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentals/Var/Var.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Var/Var.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/HackerRank.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Extra/HackerRank/HackerRank.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP Concepts/1.Class/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/OOP Concepts/1.Class/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 15 Lambda Expressions/LambdaInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/ArrayList/ArrayList.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/ArrayList/ArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Core Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structure Exercises/Arrays/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure Exercises/Arrays/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Arrays/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Arrays/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns" beforeDir="false" afterPath="$PROJECT_DIR$/Part 4: Design Patterns" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns/.idea/design-patterns-and-javafx.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns/.idea/misc.xml" beforeDir="false" />
@@ -137,25 +94,18 @@
       <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns/.metadata/version.ini" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns/doc/.~lock.design-pattern-lecture-notes.odt#" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns/doc/design-pattern-lecture-notes.odt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part I The Java Language/Chapter 3 Data Types, Variables, and Array/BuiltInArray/OneDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 3 Data Types, Variables, and Array/BuiltInArray/OneDimensionalArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part I The Java Language/Chapter 3 Data Types, Variables, and Array/BuiltInArray/TwoDimensionalArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part I The Java Language/Chapter 3 Data Types, Variables, and Array/Chapter 3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 3 Data Types, Variables, and Array/Chapter 3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part I The Java Language/Chapter 3 Data Types, Variables, and Array/The Primitive Types/Booleans/PrimitiveBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 3 Data Types, Variables, and Array/The Primitive Types/Booleans/PrimitiveBoolean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part I The Java Language/Chapter 3 Data Types, Variables, and Array/The Primitive Types/Characters/PrimitiveChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 3 Data Types, Variables, and Array/The Primitive Types/Characters/PrimitiveChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part I The Java Language/Chapter 3 Data Types, Variables, and Array/The Primitive Types/Floating-Point Types/PrimitiveFloatingPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 3 Data Types, Variables, and Array/The Primitive Types/Floating-Point Types/PrimitiveFloatingPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part I The Java Language/Chapter 3 Data Types, Variables, and Array/The Primitive Types/Integers/PrimitiveIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 3 Data Types, Variables, and Array/The Primitive Types/Integers/PrimitiveIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part II The Java Library/Chapter 19 java.util Part 1 The Collections Framework/Iterable/Collection/List/LinkedList/LinkedList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/LinkedList/LinkedList.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part II The Java Library/Chapter 19 java.util Part 1 The Collections Framework/Iterable/Collection/List/LinkedList/LinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/LinkedList/LinkedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams &amp; Functional Programming/CollectorsClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Streams &amp; Functional Programming/CollectorsClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams &amp; Functional Programming/Lamda.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Streams &amp; Functional Programming/Lamda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams &amp; Functional Programming/StreamClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Streams &amp; Functional Programming/StreamClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/Must-Know.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/java.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -171,21 +121,38 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Array.executor": "Run",
     "Application.Ex1.executor": "Run",
+    "Application.LambdaInJava.executor": "Run",
+    "Application.StringAndArray.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/sujon/Project/Core Java",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringAndArray">
+  <component name="RunManager" selected="Application.LambdaInJava">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array" />
+      <module name="Core Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex1" />
+      <module name="Core Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaInJava" />
       <module name="Core Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -200,6 +167,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambdaInJava" />
+        <item itemvalue="Application.Array" />
         <item itemvalue="Application.StringAndArray" />
         <item itemvalue="Application.Ex1" />
       </list>

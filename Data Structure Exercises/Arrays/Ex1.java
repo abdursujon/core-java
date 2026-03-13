@@ -86,68 +86,11 @@ public class Ex1 {
         return result;
     }
 
-    public static void arraysUtilityMethods(){
-        int [] arr = {1, 3, 5, 7, 9, 2, 4, 6, 8};
-        System.out.println(Arrays.toString(arr));
-
-        Arrays.sort(arr);
-        System.out.println(Arrays.toString(arr));
-
-        Arrays.fill(arr, 90);
-        System.out.println(Arrays.toString(arr));
-
-        int [] arr2 = Arrays.copyOf(arr, arr.length / 2);
-        System.out.println(Arrays.toString(arr2));
-
-        int [] arr3 = Arrays.copyOfRange(arr, 0, 5);
-        System.out.println(Arrays.toString(arr3));
-
-        System.out.println(Arrays.equals(arr, arr2)); // false
-        int [] arr4 = {1, 2, 3};
-        int [] arr5 = {1, 2, 3};
-        System.out.println(Arrays.equals(arr4, arr5)); // true
-
-        int [][] arr6 = {{1, 2, 3, 4}, {1, 2, 3, 4}};
-        int [][] arr7 = {{1, 2, 3, 4}, {1, 2, 3, 4}};
-        int [][] arr8 = {{1, 2, 3, 4}, {98, 3, 3, 4}};
-        System.out.println(Arrays.deepEquals(arr6, arr7)); // true
-        System.out.println(Arrays.deepEquals(arr7, arr8)); // false
-
-        int [] arr9 = {1, 93, 2, 384, 9};
-        Arrays.sort(arr9);
-        System.out.println(Arrays.binarySearch(arr9, 384)); // does the key 384 exist in array ? yes at index 4 so return the index
-        /**
-         *  1. The element was not found (negative means not found)
-         *   2. Where it would be if it existed
-         *
-         *   sorted array: [1, 2, 9, 93, 384]
-         *
-         *   If 34 existed, it would sit between 9 and 93 — at index 3. That's all "insertion point" means — the index where 34 would
-         *   belong in sorted order.
-         *   result = -4
-         *   insertion index = -(result + 1)
-         *                   = -(-4 + 1)
-         *                   = -(-3)
-         *                   = 3
-         *
-         *   So the insertion index is 3, which is correct.
-         */
-        System.out.println(Arrays.binarySearch(arr9, 34));
-
-        int [] arr10 = {9, 8, 7, 6, 5};
-        Integer[] arr11 = new Integer[arr10.length];
-        for(int i = 0; i < arr10.length; i++){
-            arr11[i] = arr10[i];
-        }
-        List<Integer> arr12 = new ArrayList<>(Arrays.asList(arr11));
-        System.out.println(arr12);
-    }
 
     public static void main(String[] args) {
         System.out.println(Arrays.toString(getConcatenation(new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9})));
         System.out.println(Arrays.toString(replaceElements(new int[]{2,4,5,3,1,2})));
         System.out.println(arrayToArrayList(new Integer[]{2, 34, 5, 6}));
-        arraysUtilityMethods();
     }
 
 }
