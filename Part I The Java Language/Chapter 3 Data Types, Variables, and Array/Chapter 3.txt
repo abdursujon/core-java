@@ -1,0 +1,2 @@
+- Literal = value we can see in the .java file
+- User input = value that only exists when the program runs
