@@ -32,7 +32,6 @@
       <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Map Interfaces/Map Interface" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Map Interfaces/NavigableMap Interface" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Map Interfaces/SortedMap Interface" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
