@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Data Structure Exercises/Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structure Exercises/Collection Classes/ArrayDeque" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structure Exercises/Collection Classes/ArrayList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structure Exercises/Collection Classes/EnumSet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structure Exercises/Collection Classes/HashSet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structure Exercises/Collection Classes/LinkedHashSet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structure Exercises/Collection Classes/LinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structure Exercises/Collection Classes/PriorityQueue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data Structure Exercises/Collection Classes/TreeSet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Custom Data Structure Classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Map Classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Map Classes/AbstractMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Map Classes/EnumMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Map Classes/HashMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Map Classes/IdentityHashMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Map Classes/LinkedHashMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Map Classes/TreeMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Map Classes/WeakHashMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/The legacy Classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/The legacy Classes/Dictionary" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/The legacy Classes/HashTable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/The legacy Classes/Properties" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/The legacy Classes/Stack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/The legacy Classes/Vector" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Map Interfaces/Map Interface" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Map Interfaces/NavigableMap Interface" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Map Interfaces/SortedMap Interface" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
