@@ -146,20 +146,20 @@
   - NavigableMap Interface
 
 #### Data Structures — Collection Classes
-  - ArrayList *
-  - LinkedList *
-  - HashSet
-  - LinkedHashSet
-  - TreeSet
+  - ArrayList * #
+  - LinkedList * #
+  - HashSet #
+  - LinkedHashSet #
+  - TreeSet #
   - EnumSet
-  - PriorityQueue *
-  - ArrayDeque 
+  - PriorityQueue * #
+  - ArrayDeque  #
 
 
 #### Data Structures — Map Classes
-  - HashMap
-  - LinkedHashMap
-  - TreeMap
+  - HashMap #
+  - LinkedHashMap #
+  - TreeMap #
   - EnumMap
   - WeakHashMap
   - IdentityHashMap
