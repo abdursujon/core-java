@@ -37,7 +37,7 @@
 
 ### Chapter 9: Packages and Interfaces
 
-### Chapter 10: Exception Handling
+### Chapter 10: Exception Handling *
 
   - try / catch / finally
   - throw / throws
@@ -132,11 +132,11 @@
 
 #### Collection Interfaces
   - Collection Interface
-  - List Interface
+  - List Interface *
   - Set Interface
   - SortedSet Interface
   - NavigableSet Interface
-  - Queue Interface
+  - Queue Interface *
   - Deque Interface
   - SequencedCollection Interface
 
@@ -146,14 +146,15 @@
   - NavigableMap Interface
 
 #### Data Structures — Collection Classes
-  - ArrayList
-  - LinkedList
+  - ArrayList *
+  - LinkedList *
   - HashSet
   - LinkedHashSet
   - TreeSet
   - EnumSet
-  - PriorityQueue
-  - ArrayDeque
+  - PriorityQueue *
+  - ArrayDeque 
+
 
 #### Data Structures — Map Classes
   - HashMap
@@ -166,14 +167,17 @@
 
 #### Data Structure - The Legacy Classes
 - Vector
-- Stack
+- Stack *
 - HashTable
 - Dictionary
 - Properties
 
 #### Custom Data Structure Classes
-  - Tree
-  - Graph
+  - Tree *
+  - Graph *
+  - Queue *
+  - heap *
+
 
 #### Legacy Interface
   - The Enumeration Interface
