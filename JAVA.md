@@ -154,6 +154,7 @@
   - EnumSet
   - PriorityQueue * #
   - ArrayDeque  #
+  - Collections #
 
 
 #### Data Structures — Map Classes
