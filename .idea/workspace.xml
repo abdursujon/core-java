@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="861c7c50-43a2-490c-8917-e60bedf334c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/ArrayDeque/ArrayDeques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/EnumSet/EnumSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/HashSet/HashSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/LinkedHashSet/LinkedHashSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/PriorityQueue/PriorityQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/TreeSet/TreeSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Map Classes/LinkedHashMap/LinkedHashMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Map Classes/TreeMap/TreeMaps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/Collection Classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/Collection Classes3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/LinkedList/LinkedList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/LinkedList/LinkedList.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Map Classes/HashMap/HashMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Map Classes/HashMap/HashMaps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns" beforeDir="false" afterPath="$PROJECT_DIR$/Part 4: Design Patterns" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns/.idea/design-patterns-and-javafx.iml" beforeDir="false" />
@@ -87,6 +100,9 @@
       <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns/.metadata/version.ini" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns/doc/.~lock.design-pattern-lecture-notes.odt#" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns/doc/design-pattern-lecture-notes.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/Core Java/Collection Classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/Core Java/Collection Classes3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/Core Java/LinkedList/LinkedList.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +140,7 @@
     "Application.HashMaps.executor": "Run",
     "Application.InsertionSort.executor": "Run",
     "Application.LambdaInJava.executor": "Run",
+    "Application.LinkedHashMaps.executor": "Run",
     "Application.Loops.executor": "Run",
     "Application.Regex.executor": "Run",
     "Application.SelectionSort.executor": "Run",
@@ -139,14 +156,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HashMaps">
-    <configuration name="ArrayListExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListExercise" />
-      <module name="Core Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LinkedHashMaps">
     <configuration name="Boolean.Booleans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Boolean.Booleans" />
       <module name="Core Java" />
@@ -174,6 +184,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LinkedHashMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedHashMaps" />
+      <module name="Core Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Regex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Regex.Regex" />
       <module name="Core Java" />
@@ -189,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedHashMaps" />
         <item itemvalue="Application.HashMaps" />
         <item itemvalue="Application.Regex" />
         <item itemvalue="Application.Boolean.Booleans" />
         <item itemvalue="Application.Booleans" />
-        <item itemvalue="Application.ArrayListExercise" />
       </list>
     </recent_temporary>
   </component>
