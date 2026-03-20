@@ -1,4 +1,6 @@
-public class SequentialVersusBinarySearch {
+package BinarySearch;
+
+public class Fib {
     // Fibonacci without using array time = O(n), space =
     public static int fib(int n) {
         int a = 1, b = 1;

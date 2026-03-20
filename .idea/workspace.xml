@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="861c7c50-43a2-490c-8917-e60bedf334c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 15 Lambda Expressions/LambdaInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/ArrayList/ArrayList.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/ArrayList/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Map Classes/HashMap/HashMaps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Core Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Core Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure Exercises/Arrays/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure Exercises/Arrays/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Arrays/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Arrays/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Autoboxing_Unboxing/AutoboxingAndUnboxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Autoboxing_Unboxing/AutoboxingAndUnboxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Boolean/Booleans.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Boolean/Booleans.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 3 Data Types, Variables, and Array/Chapter 3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 3 Data Types, Variables, and Array/Chapter 3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 5 Control Statements/Loops/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 5 Control Statements/Loops/ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/ArrayList/ArrayList.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/ArrayList/ArrayList.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3: Algorithm/BinarySearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3: Algorithm/BinarySearch/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3: Algorithm/BinarySearch/Fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3: Algorithm/BinarySearch/Fib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 3: Algorithm/SequentialSearch/SequentialSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3: Algorithm/SequentialSearch/SequentialSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns" beforeDir="false" afterPath="$PROJECT_DIR$/Part 4: Design Patterns" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns/.idea/design-patterns-and-javafx.iml" beforeDir="false" />
@@ -122,8 +126,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Array.executor": "Run",
+    "Application.ArrayListExercise.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.Boolean.Booleans.executor": "Run",
+    "Application.Booleans.executor": "Run",
     "Application.Ex1.executor": "Run",
+    "Application.ForLoop.executor": "Run",
+    "Application.HashMaps.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
     "Application.LambdaInJava.executor": "Run",
+    "Application.Loops.executor": "Run",
+    "Application.Regex.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
     "Application.StringAndArray.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -136,41 +150,61 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LambdaInJava">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array" />
+  <component name="RunManager" selected="Application.HashMaps">
+    <configuration name="ArrayListExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListExercise" />
       <module name="Core Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex1" />
+    <configuration name="Boolean.Booleans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Boolean.Booleans" />
+      <module name="Core Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Boolean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Booleans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Booleans" />
       <module name="Core Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LambdaInJava" />
+    <configuration name="HashMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMaps" />
       <module name="Core Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringAndArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAndArray" />
+    <configuration name="Regex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Regex.Regex" />
       <module name="Core Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Regex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LambdaInJava" />
-        <item itemvalue="Application.Array" />
-        <item itemvalue="Application.StringAndArray" />
-        <item itemvalue="Application.Ex1" />
+        <item itemvalue="Application.HashMaps" />
+        <item itemvalue="Application.Regex" />
+        <item itemvalue="Application.Boolean.Booleans" />
+        <item itemvalue="Application.Booleans" />
+        <item itemvalue="Application.ArrayListExercise" />
       </list>
     </recent_temporary>
   </component>

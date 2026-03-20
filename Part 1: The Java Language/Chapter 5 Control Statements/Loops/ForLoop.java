@@ -1,3 +1,5 @@
+package Loops;
+
 import java.util.*;
 
 public class ForLoop{

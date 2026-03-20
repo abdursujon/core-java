@@ -1,2 +1,2 @@
-- Literal = value we can see in the .java file
-- User input = value that only exists when the program runs
+- Literal = value we can see in the .java file int i = 10, 10 is literal
+- User input = value that only exists when the program runs (int [] nums) nums user input

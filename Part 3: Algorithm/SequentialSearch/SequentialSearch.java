@@ -1,3 +1,5 @@
+package SequentialSearch;
+
 public class SequentialSearch {
     public static int sequentialSearchAlg(int[] phoneList, int n, int target){
         for(int i = 0; i < n; i++){
