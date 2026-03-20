@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="861c7c50-43a2-490c-8917-e60bedf334c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Map Classes/HashMap/HashMaps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Core Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Autoboxing_Unboxing/AutoboxingAndUnboxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Autoboxing_Unboxing/AutoboxingAndUnboxing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Boolean/Booleans.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 1: Fundamentals/Boolean/Booleans.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 3 Data Types, Variables, and Array/Chapter 3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 3 Data Types, Variables, and Array/Chapter 3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 5 Control Statements/Loops/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1: The Java Language/Chapter 5 Control Statements/Loops/ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/ArrayList/ArrayList.md" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2: The Java Library &amp; Data Structure/Chapter 19 java.util Part 1 The Collections Framework &amp; Data Structures/Data Structures/Collection Classes/ArrayList/ArrayList.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 3: Algorithm/BinarySearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3: Algorithm/BinarySearch/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 3: Algorithm/BinarySearch/Fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3: Algorithm/BinarySearch/Fib.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 3: Algorithm/SequentialSearch/SequentialSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 3: Algorithm/SequentialSearch/SequentialSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns" beforeDir="false" afterPath="$PROJECT_DIR$/Part 4: Design Patterns" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Part 4: Design Patterns/.idea/design-patterns-and-javafx.iml" beforeDir="false" />
