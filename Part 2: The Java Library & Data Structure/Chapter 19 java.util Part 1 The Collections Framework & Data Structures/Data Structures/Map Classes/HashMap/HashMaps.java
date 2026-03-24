@@ -37,9 +37,23 @@ import java.util.Map;
  *   24. map.entrySet().stream() — convert to Stream
  */
 public class HashMaps {
+  public static void main(String[] args){	
     // 1. map.put(key, val) — add/update key-value pair
+    Map<Integer, String> map = new HashMap<>();
+    map.put(1, "Ryan");
+    map.put(2, "Loves");
+    map.put(3, "Gaming");
+    System.out.println(map);
+
     // 2. map.get(key) — get value by key (null if not found)
-    // 3. map.getOrDefault(key, default) — get value or return default if not found
+    boolean found = false;
+    for(Integer k: map.keySet()){
+       if(map.get(k) ==  "Loves"){
+	       found = true;
+       } 
+    }
+    System.out.println(found);    
+    // 1. map.getOrDefault(key, default) — get value or return default if not found
     // 4. map.remove(key) — remove by key
     // 5. map.remove(key, val) — remove only if key maps to specific value
     // 6. map.containsKey(key) — check if key exists
@@ -61,7 +75,7 @@ public class HashMaps {
     // 22. map.entrySet() — set of key-value pairs
     // 23. map.forEach((key, val) -> ...) — loop through entries
     // 24. map.entrySet().stream() — convert to Stream
-
+  }
     // Map inside map
     public static Map<Integer, Map<Integer, String>> customer(){
         Map<Integer, Map<Integer, String>> result = new HashMap<>();
@@ -76,9 +90,4 @@ public class HashMaps {
 
         return  result;
     }
-
-    public static void main(String[] args){
-        System.out.println(customer());
-    }
-
 }
